@@ -1,2 +1,15 @@
+# Ignorar archivos de datos pesados
 train.csv
 health_startup_clean.csv
+*.zip
+*.tar.gz
+
+# Ignorar archivos de entorno de Python
+__pycache__/
+.ipynb_checkpoints/
+.env/
+venv/
+
+# Ignorar archivos de configuración de sistema
+.DS_Store
+Thumbs.db
