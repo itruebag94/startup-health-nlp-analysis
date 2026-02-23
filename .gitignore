@@ -13,3 +13,8 @@ venv/
 # Ignorar archivos de configuración de sistema
 .DS_Store
 Thumbs.db
+
+# Entornos virtuales
+venv/
+.venv/
+env/
