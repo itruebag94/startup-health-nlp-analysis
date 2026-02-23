@@ -18,3 +18,7 @@ Thumbs.db
 venv/
 .venv/
 env/
+
+# Archivos de datos procesados
+health_master_corpus.csv
+*.csv
